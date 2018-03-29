@@ -6,8 +6,9 @@
 
 2. [如何开发一个成功的JS公共library或framework的一点思考](https://zhuanlan.zhihu.com/p/34169706)
 
+3. [JavaScript的基本编码规范](https://zhuanlan.zhihu.com/p/34199985)
 
-3. [Isomorphic概述：同构应用的前世今生](https://zhuanlan.zhihu.com/p/34965088)
+4. [Isomorphic概述：同构应用的前世今生](https://zhuanlan.zhihu.com/p/34965088)
     - 本文主要从以下几个方面介绍同构应用的基本知识:
     - 1. Isomorphic在web app范畴内的概念
     - 2. CSR, SSR and Isomorphic对比
